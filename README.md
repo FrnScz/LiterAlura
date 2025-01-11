@@ -89,6 +89,8 @@ POSTGRESQL_PASSWORD=sua_senha
 
 
 <div align="center">
+    
 ### © Fernando Scorza 
 ### 01/2025
+
 </div>
