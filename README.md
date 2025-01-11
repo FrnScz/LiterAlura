@@ -78,7 +78,7 @@ POSTGRESQL_PASSWORD=sua_senha
 1. **A primeira imagem mostra o menu principal, onde o programa pedirá ao usuário para escolher uma opção**
 <img src="https://github.com/FrnScz/LiterAlura/blob/master/images/program-1.png" alt="Imagem da primeira execução do programa"/>
 
-2. **A segunda imagem mostra como o programa funciona, fazendo uma demonstração de listar os livros salvos junto com os dados do livro e do autor** 
+2. **A segunda imagem mostra como o programa funciona, fazendo uma demonstração da opção 3, de listar os livros salvos junto com os dados do livro e do autor** 
 <img src="https://github.com/FrnScz/LiterAlura/blob/master/images/program-2.png" alt="Imagem do programa executando e listando todos os livros salvos"/>
 
 ---
