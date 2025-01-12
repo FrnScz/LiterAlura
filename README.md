@@ -16,7 +16,7 @@
 </p>  
 
 <p align="center">  
-    <img src="https://i0.wp.com/pcformat.mx/www/wp-content/uploads/2022/03/Oracle-ONE.jpg?fit=1000%2C611&ssl=1" width="700px" alt="Oracle Next Education">  
+    <img src="https://github.com/FrnScz/LiterAlura/blob/master/images/badge%20literalura.png" width="300px" alt="Badge Oracle Next Education">  
 </p>  
 
 ---
